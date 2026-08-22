@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS
 # profile-update-interval: 1
 # Date/Time: 2026-08-22 / 22:26 (Moscow)
-# Количество: 9
+# Количество: 10
 vless://f11f95e9-94ae-419e-b579-806f103bbdbf@79.174.92.133:8443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&type=tcp&headerType=none#0391%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20CIDR-Regru%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-MAX%20%7C%20VLESS%20%7C%20TG%3A%20%40YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://7301b9f4-17fa-4f17-8a20-4cfdb2afd3cb@79.174.92.133:8443?encryption=none&security=reality&sni=max.ru&fp=firefox&pbk=M_V1dM8_wcpwnmh2VZp-s3LCBjy38ZWCRpxLrBc58Do&sid=a48d397391861a3c&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20168%20-%20RU%20-%20VLESS%2FRAW%2FREALITY%2FPBK%2FSID%2FUTLS%20-%208443%20t.me%2Frjsxrd
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=grpc-reality#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2342
