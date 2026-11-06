@@ -1,3 +1,4 @@
 # profile-title: 🏳️ БеЛыЕ СпИСкИ ЗаБоРчИКоМ 🏳️ WHITE LISTS
 # profile-update-interval: 1
 vless://255a8044-3337-473e-af26-46a37208adcc@37.9.4.182:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=anvil.kachow.ink&fp=firefox&pbk=BGe-GOf-JkNWNay9--36nR4ZFHYNjGmpzVTQcXthR2A&sid=647547b8f895f9b9&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%235
+vless://255a8044-3337-473e-af26-46a37208adcc@81.94.148.112:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=cdn4.anytube.ru&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2321
